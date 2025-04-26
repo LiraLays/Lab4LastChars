@@ -1,0 +1,6 @@
+C:\Users\TpyTeHb\Documents\_Work\Univer\2Semak\Billig\Lab4Last\ClassLibrarySort\bin\Debug\ClassLibrarySort.dll
+C:\Users\TpyTeHb\Documents\_Work\Univer\2Semak\Billig\Lab4Last\ClassLibrarySort\bin\Debug\ClassLibrarySort.pdb
+C:\Users\TpyTeHb\Documents\_Work\Univer\2Semak\Billig\Lab4Last\ClassLibrarySort\obj\Debug\ClassLibrarySort.csproj.AssemblyReference.cache
+C:\Users\TpyTeHb\Documents\_Work\Univer\2Semak\Billig\Lab4Last\ClassLibrarySort\obj\Debug\ClassLibrarySort.csproj.CoreCompileInputs.cache
+C:\Users\TpyTeHb\Documents\_Work\Univer\2Semak\Billig\Lab4Last\ClassLibrarySort\obj\Debug\ClassLibrarySort.dll
+C:\Users\TpyTeHb\Documents\_Work\Univer\2Semak\Billig\Lab4Last\ClassLibrarySort\obj\Debug\ClassLibrarySort.pdb

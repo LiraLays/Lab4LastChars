@@ -1,0 +1,14 @@
+C:\Users\TpyTeHb\Documents\_Work\Univer\2Semak\Billig\Lab4Last\WindowsFormsSort\bin\Debug\WindowsFormsSort.exe.config
+C:\Users\TpyTeHb\Documents\_Work\Univer\2Semak\Billig\Lab4Last\WindowsFormsSort\bin\Debug\WindowsFormsSort.exe
+C:\Users\TpyTeHb\Documents\_Work\Univer\2Semak\Billig\Lab4Last\WindowsFormsSort\bin\Debug\WindowsFormsSort.pdb
+C:\Users\TpyTeHb\Documents\_Work\Univer\2Semak\Billig\Lab4Last\WindowsFormsSort\bin\Debug\ClassLibrarySort.dll
+C:\Users\TpyTeHb\Documents\_Work\Univer\2Semak\Billig\Lab4Last\WindowsFormsSort\bin\Debug\ClassLibrarySort.pdb
+C:\Users\TpyTeHb\Documents\_Work\Univer\2Semak\Billig\Lab4Last\WindowsFormsSort\obj\Debug\WindowsFormsSort.csproj.AssemblyReference.cache
+C:\Users\TpyTeHb\Documents\_Work\Univer\2Semak\Billig\Lab4Last\WindowsFormsSort\obj\Debug\WindowsFormsSort.FormSort.resources
+C:\Users\TpyTeHb\Documents\_Work\Univer\2Semak\Billig\Lab4Last\WindowsFormsSort\obj\Debug\WindowsFormsSort.InfoForm.resources
+C:\Users\TpyTeHb\Documents\_Work\Univer\2Semak\Billig\Lab4Last\WindowsFormsSort\obj\Debug\WindowsFormsSort.Properties.Resources.resources
+C:\Users\TpyTeHb\Documents\_Work\Univer\2Semak\Billig\Lab4Last\WindowsFormsSort\obj\Debug\WindowsFormsSort.csproj.GenerateResource.cache
+C:\Users\TpyTeHb\Documents\_Work\Univer\2Semak\Billig\Lab4Last\WindowsFormsSort\obj\Debug\WindowsFormsSort.csproj.CoreCompileInputs.cache
+C:\Users\TpyTeHb\Documents\_Work\Univer\2Semak\Billig\Lab4Last\WindowsFormsSort\obj\Debug\WindowsF.5D5C55B4.Up2Date
+C:\Users\TpyTeHb\Documents\_Work\Univer\2Semak\Billig\Lab4Last\WindowsFormsSort\obj\Debug\WindowsFormsSort.exe
+C:\Users\TpyTeHb\Documents\_Work\Univer\2Semak\Billig\Lab4Last\WindowsFormsSort\obj\Debug\WindowsFormsSort.pdb
